@@ -1,0 +1,13 @@
+using System;
+
+
+namespace CharityCampaign
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello SoftUni");
+        }
+    }
+}
