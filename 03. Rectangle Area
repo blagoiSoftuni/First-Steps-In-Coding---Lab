@@ -1,0 +1,18 @@
+using System;
+
+
+namespace rectangle
+{
+    internal class Program
+
+    {
+        static void Main(string[] args)
+        {
+        int side = int.Parse(Console.ReadLine());
+            int area = int.Parse(Console.ReadLine());
+            int sum = side * area;
+
+            Console.WriteLine(sum);
+        }
+    }
+}
