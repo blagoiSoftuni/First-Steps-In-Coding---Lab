@@ -1,0 +1,5 @@
+String firstName = Console.ReadLine();
+String SecondName = Console.ReadLine();  
+   int age = int.Parse(Console.ReadLine()); 
+String town =  Console.ReadLine();
+Console.WriteLine($"You are {firstName} {SecondName}, a {age}-years old person from {town}.");
